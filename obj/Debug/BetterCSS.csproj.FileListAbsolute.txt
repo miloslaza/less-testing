@@ -9,3 +9,10 @@ D:\speaking\PS\BetterCSS\Examples\LESS\After\BetterCSS\obj\Debug\ResolveAssembly
 D:\speaking\PS\BetterCSS\Examples\LESS\After\BetterCSS\obj\Debug\BetterCSS.dll
 D:\speaking\PS\BetterCSS\Examples\LESS\After\BetterCSS\obj\Debug\BetterCSS.pdb
 D:\speaking\PS\BetterCSS\Examples\LESS\After\BetterCSS\bin\dotless.Core.dll
+D:\GitHub\bin\BetterCSS.dll.config
+D:\GitHub\bin\BetterCSS.dll
+D:\GitHub\bin\BetterCSS.pdb
+D:\GitHub\bin\dotless.Core.dll
+D:\GitHub\obj\Debug\BetterCSS.csprojResolveAssemblyReference.cache
+D:\GitHub\obj\Debug\BetterCSS.dll
+D:\GitHub\obj\Debug\BetterCSS.pdb
